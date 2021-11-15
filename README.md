@@ -1,5 +1,11 @@
 # Алгоритм генерации поисковых подсказок
 
+## Разработчики
+
+[solidsign](https://github.com/solidsign)
+[Glicheres](https://github.com/Glicheres)
+[miroslav](google.com)
+
 ## Входные данные
 
 История поиска — реальные данные взятые за определенный период (неделя).  

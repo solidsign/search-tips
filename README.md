@@ -4,7 +4,7 @@
 
 [solidsign](https://github.com/solidsign)
 [Glicheres](https://github.com/Glicheres)
-[miroslav](google.com)
+[RuMiro](https://github.com/RuMiro)
 
 ## Входные данные
 

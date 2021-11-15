@@ -8,6 +8,7 @@
 [Glicheres](https://github.com/Glicheres)
 [RuMiro](https://github.com/RuMiro)
 
+![](presentation.gif)
 ## Входные данные
 
 История поиска — реальные данные взятые за определенный период (неделя).  
